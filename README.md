@@ -8,6 +8,8 @@ This is the same method pro hackers use to make millions
 Instructions on how to start are below ⬇️
 
               ##########
+If you notice small payments made to you thats because most people test the site with small amounts
+
 
 
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
