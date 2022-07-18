@@ -16,6 +16,7 @@ Instructions on how to start are below ⬇️
 info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!! 
+!
  https://www.netlify.com/ 
 
 1. Go to above link to deploy the code once you fork it
